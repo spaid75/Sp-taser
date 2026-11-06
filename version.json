@@ -1,5 +1,7 @@
 {
     "version": "1.0.1",
-    "changelog": ["First release"],
+    "changelog": ["Added: ox_target removal of probes, optional damage, chance of no effect on hit.
+- Changed: probes hit random spots on the torso, laser dot is now a glowing light.
+- Fixed: firing without aiming no longer launches probes ahead, remove-probes key shows in help."],
     "download": "https://portal.cfx.re/assets/granted-assets"
 }
